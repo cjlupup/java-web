@@ -1,0 +1,177 @@
+A:link {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #990000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #006633; TEXT-DECORATION: underline
+}
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+INPUT {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+SPAN {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+DIV {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+BUTTON {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+SELECT {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+TEXTAREA {
+	FONT-SIZE: 10pt; FONT-FAMILY: ·ÂËÎ_GB2312
+}
+HR {
+	COLOR: silver; HEIGHT: 1px
+}
+TABLE {
+	BORDER-COLLAPSE: collapse
+}
+.BodyHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 34pt; BORDER-BOTTOM: #1862ad 2pt solid; FONT-FAMILY: ·ÂËÎ_GB2312, ·½ÕýÊæÌå, ºº¶¦·±º£±¨, ºÚÌå, ¿¬Ìå_GB2312; WHITE-SPACE: nowrap
+}
+.BodyHeader2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 34pt; FONT-FAMILY: ·ÂËÎ_GB2312, ·ÂËÎ_GB2312, ºº¶¦·±º£±¨, ºÚÌå, ¿¬Ìå_GB2312; WHITE-SPACE: nowrap
+}
+.BodyTitle {
+	BORDER-RIGHT: #808080 1pt solid; PADDING-RIGHT: 3pt; BORDER-TOP: #808080 1pt solid; PADDING-LEFT: 3pt; PADDING-BOTTOM: 3pt; BORDER-LEFT: #808080 1pt solid; WIDTH: 100%; PADDING-TOP: 3pt; BORDER-BOTTOM: #808080 1pt solid; BACKGROUND-COLOR: #c0ffc0
+}
+.Hr1 {
+	COLOR: #1862ad; HEIGHT: 2px
+}
+.button {
+	BORDER-RIGHT: 1.5pt outset; PADDING-RIGHT: 8px; BORDER-TOP: 1.5pt outset; PADDING-LEFT: 8px; FONT-SIZE: 9pt; BORDER-LEFT: 1.5pt outset; COLOR: black; WORD-BREAK: keep-all; PADDING-TOP: 3px; BORDER-BOTTOM: 1.5pt outset; FONT-FAMILY: ·ÂËÎ_GB2312; HEIGHT: 16.5pt; BACKGROUND-COLOR: buttonface; TEXT-ALIGN: center
+}
+A.button:link {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.button:visited {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.button:active {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+A.button:hover {
+	CURSOR: default; COLOR: #000000; TEXT-DECORATION: none
+}
+NoFace {
+	WORD-BREAK: keep-all
+}
+.SelectedTabStrip A.NoFace:link {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.SelectedTabStrip A.NoFace:visited {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.SelectedTabStrip A.NoFace:active {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.SelectedTabStrip A.NoFace:hover {
+	CURSOR: hand; COLOR: #000000; TEXT-DECORATION: none
+}
+.TabStrip A.NoFace:link {
+	CURSOR: hand; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.TabStrip A.NoFace:visited {
+	CURSOR: hand; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.TabStrip A.NoFace:active {
+	CURSOR: hand; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.TabStrip A.NoFace:hover {
+	CURSOR: hand; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.TabStrip {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 6pt; BORDER-TOP: #0a246a 1px solid; PADDING-LEFT: 6pt; PADDING-BOTTOM: 2pt; BORDER-LEFT: #0a246a 1px solid; COLOR: #ffffff; PADDING-TOP: 2pt; BORDER-BOTTOM: #0a246a 1px solid; BACKGROUND-COLOR: #365390; TEXT-ALIGN: center
+}
+.SelectedTabStrip {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 6pt; BORDER-TOP: #0a246a 1px solid; PADDING-LEFT: 6pt; PADDING-BOTTOM: 2pt; BORDER-LEFT: #0a246a 1px solid; PADDING-TOP: 2pt; BORDER-BOTTOM: medium none; TEXT-ALIGN: center
+}
+.TabSeparator {
+	BORDER-LEFT: #0a246a 1px solid; BORDER-BOTTOM: #0a246a 1px solid
+}
+.MultiPage {
+	BORDER-RIGHT: #0a246a 1px solid; PADDING-RIGHT: 4pt; BORDER-TOP: medium none; PADDING-LEFT: 4pt; PADDING-BOTTOM: 4pt; BORDER-LEFT: #0a246a 1px solid; PADDING-TOP: 4pt; BORDER-BOTTOM: #0a246a 1px solid
+}
+.keepAll {
+	WORD-BREAK: keep-all; WHITE-SPACE: nowrap
+}
+.breakAll {
+	WORD-BREAK: break-all
+}
+.Dialog {
+	BORDER-RIGHT: #d4d0c8 1px solid; BORDER-TOP: 1px outset; MARGIN: 5px; BORDER-LEFT: 1px outset; BORDER-BOTTOM: #d4d0c8 1px solid; BACKGROUND-COLOR: #d4d0c8
+}
+.Dialog2 {
+	BORDER-RIGHT: #d4d0c8 1px solid; BORDER-TOP: 1px outset; MARGIN: 5px; OVERFLOW: auto; BORDER-LEFT: 1px outset; BORDER-BOTTOM: #d4d0c8 1px solid
+}
+.subMenuBar {
+	BORDER-RIGHT: #8b8b8b 1pt solid; FILTER: progid:DXImageTransform.Microsoft.Alpha(opacity=85); LEFT: 0px; VISIBILITY: hidden; CURSOR: hand; BORDER-BOTTOM: #8b8b8b 1pt solid; POSITION: absolute; BACKGROUND-COLOR: #dfdfdf
+}
+.MainMenuBar {
+	BORDER-RIGHT: #808080 1pt solid; BORDER-TOP: #808080 1pt solid; BORDER-LEFT: #808080 1pt solid; BORDER-BOTTOM: #808080 1pt solid; HEIGHT: 22px; BACKGROUND-COLOR: #dfdfdf
+}
+.MainMenu {
+	PADDING-RIGHT: 12pt; PADDING-LEFT: 12pt; CURSOR: hand
+}
+.MenuTd {
+	BACKGROUND-IMAGE: url(Images/MenuTd.gif)
+}
+.SubMenu {
+	PADDING-RIGHT: 0pt; PADDING-LEFT: 0pt; PADDING-BOTTOM: 0pt; PADDING-TOP: 0pt
+}
+.SubMenu A:link {
+	PADDING-RIGHT: 14pt; PADDING-LEFT: 14pt; PADDING-BOTTOM: 2pt; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 2pt; TEXT-DECORATION: none
+}
+.SubMenu A:visited {
+	PADDING-RIGHT: 14pt; PADDING-LEFT: 14pt; PADDING-BOTTOM: 2pt; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 2pt; TEXT-DECORATION: none
+}
+.SubMenu A:active {
+	PADDING-RIGHT: 14pt; PADDING-LEFT: 14pt; PADDING-BOTTOM: 2pt; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 2pt; TEXT-DECORATION: none
+}
+.SubMenu A:hover {
+	PADDING-RIGHT: 14pt; PADDING-LEFT: 14pt; PADDING-BOTTOM: 2pt; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 2pt; BACKGROUND-COLOR: #8b8b8b; TEXT-DECORATION: none
+}
+.ToolBar {
+	BACKGROUND-IMAGE: url(Images/MenuBg.gif); WIDTH: 100%; HEIGHT: 24px
+}
+.HideOnPrint {
+	
+}
+.RemoveOnPrint {
+	
+}
+.ShowOnPrint {
+	DISPLAY: none
+}
+.PageNext {
+	PAGE-BREAK-AFTER: always
+}
+.InputBox {
+	BORDER-RIGHT: #f0f0f0 1pt solid; BORDER-TOP: #808080 1pt solid; BORDER-LEFT: #808080 1pt solid; BORDER-BOTTOM: #f0f0f0 1pt solid
+}
+.ReadOnly {
+	BACKGROUND-COLOR: #f2f2f2
+}
+.Button1 {
+	BORDER-RIGHT: #999999 1pt solid; BORDER-TOP: #f1f1f1 1pt solid; BORDER-LEFT: #f1f1f1 1pt solid; PADDING-TOP: 2pt; BORDER-BOTTOM: #999999 1pt solid; BACKGROUND-COLOR: #e5e5e5
+}
+.SortTable {
+	BEHAVIOR: url(tpml/SortTable.htc); FONT: menu; sortNoneImageUrl: images/sortBlank.gif; sortUpImageUrl: images/sortUp.gif; sortDownImageUrl: images/sortDown.gif
+}
+.DBGrid TD {
+	
+}

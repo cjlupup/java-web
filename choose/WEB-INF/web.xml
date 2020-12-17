@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+  <display-name>预警系统----版权所有：北京拓文科技发展有限公司</display-name>
+  <description>预警系统</description>
+  <servlet>
+    <servlet-name>InitServlet</servlet-name>
+    <servlet-class>com.ideas.servlet.InitServlet</servlet-class>
+    <init-param>
+      <param-name>configURI</param-name>
+      <param-value>WEB-INF/conf.xml</param-value>
+    </init-param>
+    <init-param>
+      <param-name>configProperties</param-name>
+      <param-value>WEB-INF/alert.properties</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.ideas.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>LogoutServlet</servlet-name>
+    <servlet-class>com.ideas.servlet.LogoutServlet</servlet-class>
+  </servlet> 
+  <servlet>
+    <servlet-name>UpFileServlet</servlet-name>
+    <servlet-class>com.ideas.servlet.UpFileServlet</servlet-class>
+  </servlet>
+  
+
+
+
+  <servlet-mapping>
+    <servlet-name>InitServlet</servlet-name>
+    <url-pattern>/InitServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LogoutServlet</servlet-name>
+    <url-pattern>/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpFileServlet</servlet-name>
+    <url-pattern>/UpFileServlet</url-pattern>
+  </servlet-mapping>
+  
+
+  <welcome-file-list>
+    <welcome-file>login.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

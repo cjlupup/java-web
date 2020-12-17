@@ -1,0 +1,87 @@
+.shadow {
+	filter: Alpha(Opacity=70);
+}
+.del {
+	font-family: "宋体";
+	font-size: 9pt;
+	text-decoration: line-through;
+}
+td {
+	font-family: "宋体";
+	font-size: 12px;
+}
+
+.text {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.text:hover {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.cpy1 {  font-size: 12px; line-height: 15pt}
+.price1 {
+	font-family: "宋体";
+	font-size: 24px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.price2 {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	vertical-align: top;
+
+}
+.tableBorder1 {
+	BORDER-RIGHT: 1px; BORDER-TOP: 1px; BORDER-LEFT: 1px; WIDTH: 100%; BORDER-BOTTOM: 1px; BACKGROUND-COLOR: #ffffff; align: center
+}
+.tableBorder2 {
+	BORDER-RIGHT: #dedede 1px solid; BORDER-TOP: #dedede 1px solid; BORDER-LEFT: #dedede 1px solid; WIDTH: 100%; BORDER-BOTTOM: #dedede 1px solid; BACKGROUND-COLOR: #efefef
+}
+.tableBorder3 {
+	BORDER-RIGHT: #6595d6 1px solid; BORDER-TOP: 0px; BORDER-LEFT: #6595d6 1px solid; WIDTH: 100%; BORDER-BOTTOM: #6595d6 0px solid; BACKGROUND-COLOR: #efefef
+}
+.tableBorder4 {
+	BORDER-RIGHT: #6595d6 1px solid; BORDER-TOP: #6595d6 1px solid; BORDER-LEFT: #6595d6 1px solid; WIDTH: 100%; BORDER-BOTTOM: #6595d6 1px solid
+}
+.tableBorder5 {
+	BORDER-RIGHT: #6595d6 1px solid; BORDER-TOP: #6595d6 1px solid; BORDER-LEFT: #6595d6 1px solid; BORDER-BOTTOM: #6595d6 1px solid; BACKGROUND-COLOR: #d6e0ef
+}
+.tableBorder6 {
+	BORDER-RIGHT: 1px; BORDER-TOP: 1px; BORDER-LEFT: 1px; WIDTH: 100%; BORDER-BOTTOM: 1px; BACKGROUND-COLOR: #bbbbbb
+}
+.singleborder {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1px; PADDING-TOP: 0px; BACKGROUND-COLOR: #6595d6
+}
+TD.TableTitle1 {
+	COLOR: #333333; BACKGROUND-COLOR: #f8f8f8
+}
+TD.TableTitle2 {
+	BACKGROUND-COLOR: #d2e9fb
+}
+TD.TableBody1 {
+	LINE-HEIGHT: normal; BACKGROUND-COLOR: #f8f8f8
+}
+TD.TableBody2 {
+	LINE-HEIGHT: normal; BACKGROUND-COLOR: #d2e9fb
+}
+TD.TableBody3 {
+	BACKGROUND-COLOR: #6595d6
+}
+TD.TableBody4 {
+	BACKGROUND-COLOR: #ffffff
+}
+TD.TableBody5 {
+	BACKGROUND-COLOR: #ecf4fa
+}
+TD.TableBody6 {
+	BACKGROUND-COLOR: #efefef
+}
